@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="section_background">#aaa400</color>
+    <color name="list_divider">#aac5c4c4</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="actionbar_background">#FFFFFF</color>
+    <color name="navigation_drawer_panel">#5EA2FD</color>
+    <color name="navigation_drawer_title">#FFFFFF</color>
+    <color name="actionbar_title_color">#000000</color>
+
+
+    <color name="background">#ff82B548</color>
+    <color name="foreground">@android:color/white</color>
+    <color name="list_background_pressed">#992416</color>
+
+
+</resources>

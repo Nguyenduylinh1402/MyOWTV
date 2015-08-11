@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">On World TV</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Search</item>
+        <item>Login</item>
+        <item>Providers</item>
+        <item>Vietnamese</item>
+        <item>Latino</item>
+        <item>VGN</item>
+        <item>Categories</item>
+        <item>Series</item>
+        <item>Shows</item>
+        <item>Live TV</item>
+        <item>Radio</item>
+        <item>ActivityExample</item>
+    </string-array>
+    <string-array name="nav_drawer_section">
+        <item>Providers</item>
+        <item>Categories</item>
+    </string-array>
+    <array name="nav_drawer_icon">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_search</item>
+        <item>@drawable/ic_login</item>
+        <item>@drawable/ic_provider</item>
+        <item>@drawable/ic_provider</item>
+        <item>@drawable/ic_provider</item>
+        <item>@drawable/ic_series</item>
+        <item>@drawable/ic_shows</item>
+        <item>@drawable/ic_tv</item>
+        <item>@drawable/ic_radio</item>
+
+    </array>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Home fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
